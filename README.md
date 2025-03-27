@@ -1,5 +1,5 @@
 # Exploratory Data Analysis
-Importing Data
+Importing Data (txt, excel)
 
 Data Structure<br>
 Data Visualization<br>
